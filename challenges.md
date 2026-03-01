@@ -1,7 +1,5 @@
 # 📊 Netflix Data Challenges
 
-Complete these SQL challenges to master your data analysis skills. You can find all the solutions in [challenges_solution.sql](./challenges_solution.sql).
-
 ### Challenge 1: The Fresh Starts
 **Goal:** List the titles and release dates of the first 10 movies released after January 1st, 2023. Sort them from oldest to newest.
 
